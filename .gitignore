@@ -1,0 +1,23 @@
+# Configuración local y secretos
+.env
+.env.*
+!.env.example
+
+# Registros y archivos temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Dependencias y cachés
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
