@@ -34,4 +34,4 @@ git log --oneline
 Repositorio remoto: https://github.com/KIRA21M/laboratorio-git
 
 ## Practica Git
-María José Linares Cortés 
+Samuel Jonathan Trujillo Bolaños
