@@ -32,3 +32,6 @@ git log --oneline
 ```
 
 Repositorio remoto: https://github.com/KIRA21M/laboratorio-git
+
+## Practica 
+En esta practica se aplicara el uso de git hub mediante la creacion de ramas estructuradas con los nombres de los integrantes
