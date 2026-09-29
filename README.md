@@ -32,3 +32,7 @@ git log --oneline
 ```
 
 Repositorio remoto: https://github.com/KIRA21M/laboratorio-git
+
+##Practica Git
+
+Jessica Juárez Rodríguez
