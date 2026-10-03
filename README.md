@@ -34,4 +34,7 @@ git log --oneline
 Repositorio remoto: https://github.com/KIRA21M/laboratorio-git
 
 ## Practica Git
+ feature/diana-laura-olmos
 Diana Laura Olmos
+=======
+Samuel Jonathan Trujillo Bolaños
