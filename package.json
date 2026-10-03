@@ -1,0 +1,20 @@
+{
+  "name": "laboratorio-git",
+  "version": "0.2.0",
+  "description": "Practica de laboratorio Git con autenticacion de usuarios.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "git",
+    "auth",
+    "laboratorio"
+  ],
+  "author": "Reing01",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
